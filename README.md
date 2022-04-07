@@ -10,4 +10,5 @@ It's me Muhammad "Emwai" Yulianto. Bachelor of engineering, focus on computer vi
 # 😎Portofolio
 
 Feel free to see my portofolio😊 [Emwai](https://bit.ly/emwaii1)
-  
+
+![Logo](https://github.com/Emwaii/Emwaii/blob/main/logo.png)
